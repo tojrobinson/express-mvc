@@ -1,0 +1,11 @@
+{
+   "node": true,
+   "undef": true,
+   "unused": true,
+   "strict": true,
+   "curly": true,
+   "eqeqeq": true,
+   "asi": true,
+   "globals": {
+   }
+}
